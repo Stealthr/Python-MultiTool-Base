@@ -1,5 +1,5 @@
 # Python Multitool base
-
+### the things on there are just examples they don't work.
 If you're gonna use this. Read the code. There's comments in it that tell you how. Or read on, that works too.
 
 # Usage
